@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name", "Name\Name.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Address\Address.csproj", "{F5BF2F54-3623-48FB-B780-5C03146B3E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotation", "Quotation\Quotation.csproj", "{CA9B443A-1D3F-44A8-897E-0EDE9AF754E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{DAF12156-85DE-4C98-B9DC-6165CFCC22F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials", "Initials\Initials.csproj", "{F8F24167-32C9-4B45-8DC1-40EFBB6FB155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +25,18 @@ Global
 		{F5BF2F54-3623-48FB-B780-5C03146B3E75}.Debug|x86.Build.0 = Debug|x86
 		{F5BF2F54-3623-48FB-B780-5C03146B3E75}.Release|x86.ActiveCfg = Release|x86
 		{F5BF2F54-3623-48FB-B780-5C03146B3E75}.Release|x86.Build.0 = Release|x86
+		{CA9B443A-1D3F-44A8-897E-0EDE9AF754E1}.Debug|x86.ActiveCfg = Debug|x86
+		{CA9B443A-1D3F-44A8-897E-0EDE9AF754E1}.Debug|x86.Build.0 = Debug|x86
+		{CA9B443A-1D3F-44A8-897E-0EDE9AF754E1}.Release|x86.ActiveCfg = Release|x86
+		{CA9B443A-1D3F-44A8-897E-0EDE9AF754E1}.Release|x86.Build.0 = Release|x86
+		{DAF12156-85DE-4C98-B9DC-6165CFCC22F1}.Debug|x86.ActiveCfg = Debug|x86
+		{DAF12156-85DE-4C98-B9DC-6165CFCC22F1}.Debug|x86.Build.0 = Debug|x86
+		{DAF12156-85DE-4C98-B9DC-6165CFCC22F1}.Release|x86.ActiveCfg = Release|x86
+		{DAF12156-85DE-4C98-B9DC-6165CFCC22F1}.Release|x86.Build.0 = Release|x86
+		{F8F24167-32C9-4B45-8DC1-40EFBB6FB155}.Debug|x86.ActiveCfg = Debug|x86
+		{F8F24167-32C9-4B45-8DC1-40EFBB6FB155}.Debug|x86.Build.0 = Debug|x86
+		{F8F24167-32C9-4B45-8DC1-40EFBB6FB155}.Release|x86.ActiveCfg = Release|x86
+		{F8F24167-32C9-4B45-8DC1-40EFBB6FB155}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
